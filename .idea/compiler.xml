@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hadoop4-demo" />
+        <module name="chapter6-mr" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

@@ -6,7 +6,11 @@
 
   <groupId>com.leon</groupId>
   <artifactId>hadoop4-demo</artifactId>
+  <packaging>pom</packaging>
   <version>1.0</version>
+  <modules>
+    <module>chapter6-mr</module>
+  </modules>
 
   <name>hadoop4-demo</name>
   <!-- FIXME change it to the project's website -->
